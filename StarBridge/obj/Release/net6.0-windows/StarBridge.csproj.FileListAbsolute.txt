@@ -1,0 +1,17 @@
+C:\Users\halin\Desktop\Temp\Maple\Release\net6.0-windows\StarBridge.exe
+C:\Users\halin\Desktop\Temp\Maple\Release\net6.0-windows\StarBridge.deps.json
+C:\Users\halin\Desktop\Temp\Maple\Release\net6.0-windows\StarBridge.runtimeconfig.json
+C:\Users\halin\Desktop\Temp\Maple\Release\net6.0-windows\StarBridge.dll
+C:\Users\halin\Desktop\Temp\Maple\Release\net6.0-windows\ref\StarBridge.dll
+C:\Users\halin\Desktop\Temp\Maple\Release\net6.0-windows\StarBridge.pdb
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.Properties.Resources.resources
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.csproj.GenerateResource.cache
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.AssemblyInfoInputs.cache
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.AssemblyInfo.cs
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.csproj.CoreCompileInputs.cache
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.dll
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\ref\StarBridge.dll
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.pdb
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.genruntimeconfig.cache
+C:\Users\halin\source\repos\StarBridge\StarBridge\obj\Release\net6.0-windows\StarBridge.StarBridgeHelper.resources
